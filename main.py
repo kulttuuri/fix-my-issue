@@ -1,4 +1,5 @@
+#! /usr/bin/python3
 def tolower():
-  return string.toLower()
+  return string.tolower()
 
 print(tolower("Hello World!"))
